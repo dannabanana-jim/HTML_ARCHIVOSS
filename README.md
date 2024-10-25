@@ -1,9 +1,11 @@
 # HTML_ARCHIVOSS
 #1.-
+
 ![image](https://github.com/user-attachments/assets/ca7f30bb-9244-4ced-9885-46e0c51b43b1)
 ![image](https://github.com/user-attachments/assets/c502107e-e85a-4d92-8e25-e063b33b9f54)
 
 #2.-
+
 ![image](https://github.com/user-attachments/assets/ab344ebf-bbfc-4eff-b0b8-acac6e419d5e)
 ![image](https://github.com/user-attachments/assets/5615222f-d974-466e-aa37-0e5bb45f0acb)
 
